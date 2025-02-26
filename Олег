@@ -1,0 +1,5 @@
+a=int(input('ВЕДИТЕ А'))
+b=int(input('ВВЕДИТЕ Б')) 
+v=int(input('ВВЕДИТЕ В')) 
+if a==b==v: 
+   print('они ровесники') 
